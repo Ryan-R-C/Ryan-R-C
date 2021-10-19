@@ -2,7 +2,8 @@
 
 - 🤔 I’m looking for a job as a Front End Dev
 - 🔭 I’m currently working on my repositories
-- 🌱 I’m currently learning JavaScript to Front End
+- 💻 I’m currently learning JavaScript and React to Front End
+- 📱  And React Natice to Mobile!
 
 ##
 
