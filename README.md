@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ryan
 
-- 🔭 I’m currently working on my repositories
+- 🔭 I’m currently working in 42Dias as a fullStack Dev
 - 💻 I’m currently learning JavaScript and React to Front End
 - 📱  And React Natice to Mobile!
 
