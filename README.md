@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in 42Dias as a fullStack Dev
 - 💻 I’m currently learning JavaScript and React to Front End
 - 📱 React Native to Mobile
-- 📙 Sequelize and NodeJs to backend!
+- 📙 Sequelize, NodeJs and Docker to backend!
 
 ##
 
@@ -20,7 +20,9 @@
   <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ryan-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
   <img align="center" alt="Ryan-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Ryan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Ryan-MyQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ryan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Ryan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
   </div>
   
