@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working in 42Dias as a fullStack Dev
 - 💻 I’m currently learning JavaScript and React to Front End
-- 📱  And React Natice to Mobile!
+- 📱 React Native to Mobile
+- 📙 Sequelize and NodeJs to backend!
 
 ##
 
@@ -17,7 +18,10 @@
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ryan-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
+  <img align="center" alt="Ryan-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
+  
   
   ##
  
