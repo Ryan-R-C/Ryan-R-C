@@ -1,4 +1,6 @@
-### Hi there 👋 I am Ryan
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+
+### I am Ryan, Software Engineer and Full Stack Developer
 
 - 🔭 I’m currently working in 42Dias as a fullStack Dev
 - 🔑 I’m currently learning Solidity and Web3 to Crypto Transactions
