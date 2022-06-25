@@ -6,7 +6,7 @@
 - 🔑 I’m currently learning Solidity and Web3 to Crypto Transactions
 - 💻 I’m currently learning JavaScript and React to Front End
 - 📱 React Native to Mobile
-- 📙 Sequelize, NodeJs and Docker to backend!
+- 📙 Sequelize, NodeJs and Docker to Back end!
 
 <br>
 
