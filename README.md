@@ -1,12 +1,13 @@
 ### Hi there 👋 I am Ryan
 
 - 🔭 I’m currently working in 42Dias as a fullStack Dev
-- ₿  I’m currently learning Solidity and Web3 to Crypto Transactions
+- 🔑 I’m currently learning Solidity and Web3 to Crypto Transactions
 - 💻 I’m currently learning JavaScript and React to Front End
 - 📱 React Native to Mobile
 - 📙 Sequelize, NodeJs and Docker to backend!
 
-##
+<br>
+
 
 <div align="center">
   <a href="https://github.com/Ryan-R-C">
@@ -32,6 +33,6 @@
  
 <div> 
   <a href = "mailto:ryan.r.c.339ac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://ryan-r-c.github.io/portfolio/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
+  <a href = "https://ryan-r-c.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-costa-7ba1b7216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
