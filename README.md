@@ -2,7 +2,7 @@
 
 ### I am Ryan, Software Engineer and Full Stack Developer
 
-- 🔭 I’m currently working in 42Dias as a fullStack Dev
+- 🔭 I’m currently working in 42Dias as a Full Stack Developer
 - 🔑 I’m currently learning Solidity and Web3 to Crypto Transactions
 - 💻 I’m currently learning JavaScript and React to Front End
 - 📱 React Native to Mobile
@@ -31,7 +31,7 @@
   </div>
   
   
-  ##
+<br>
  
 <div align="center"> 
   <a href = "mailto:ryan.r.c.339ac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
