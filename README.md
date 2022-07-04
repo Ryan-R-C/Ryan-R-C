@@ -2,10 +2,10 @@
 
 ### I am Ryan, Software Engineer and Full Stack Developer
 
-- 🔭 I’m currently working in 42Dias as a Full Stack Developer
-- 🔑 I’m currently learning Solidity and Web3 to Crypto Transactions
-- 💻 I’m currently learning JavaScript and React to Front End
-- 📱 React Native to Mobile
+- 🔭 I’m currently working in 42Dias as a Full Stack Developer;
+- 💻 learning JavaScript and React to Front End;
+- 🔑 Solidity and Web3 to Crypto Transactions;
+- 📱 React Native to Mobile;
 - 📙 Sequelize, NodeJs and Docker to Back end!
 
 <br>
