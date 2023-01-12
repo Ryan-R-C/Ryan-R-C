@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working in 42Dias as a Full Stack Developer;
 - 💻 learning JavaScript and React to Front End;
-- 🔑 Solidity and Web3 to Crypto Transactions;
 - 📱 React Native to Mobile;
 - 📙 Sequelize, NodeJs and Docker to Back end!
 
