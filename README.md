@@ -4,9 +4,8 @@
 
 
 - 🔭 Currently, I work at Facilita Jurídico, where I am responsible for maintaining a production system and developing solutions that incorporate AI for specific sectors within the company;
-- 💻 learning JavaScript and React to Front End;
-- 📱 React Native to Mobile;
-- 📙 Sequelize, NodeJs and Docker to Back end!
+- 💻 learning Prompt engeineering and Langchain for apply AI in code;
+
 
 <br>
 
