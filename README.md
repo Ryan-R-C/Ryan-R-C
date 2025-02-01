@@ -1,8 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-### I am Ryan, Software Engineer and Full Stack Developer
+### I am Ryan, Full Stack Developer & UI/UX Designer & Prompt Engineer
 
-- 🔭 I’m currently working in 42Dias as a Full Stack Developer;
+
+- 🔭 Currently, I work at Facilita Jurídico, where I am responsible for maintaining a production system and developing solutions that incorporate AI for specific sectors within the company;
 - 💻 learning JavaScript and React to Front End;
 - 📱 React Native to Mobile;
 - 📙 Sequelize, NodeJs and Docker to Back end!
@@ -11,7 +12,7 @@
 
 
 <div align="center">
-    <a href = "https://new-portfolio-ryan-r-c.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
+    <a href = "https://new-portfolio-16cx-ryanrcs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
       <a href="https://www.linkedin.com/in/ryan-costa-7ba1b7216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:ryan.r.c.339ac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
