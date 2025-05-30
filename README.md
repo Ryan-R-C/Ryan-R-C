@@ -2,7 +2,12 @@
 
 ### I am Ryan, Full Stack Developer & UI/UX Designer & Prompt Engineer
 
+### About me
+Full Stack Developer with 4+ years of experience, leading legal automation projects using generative AI — including a case that doubled revenue and cut operational costs by 50%. Specialist in scalable development with React, Next.js, Node.js, Python, and Docker, focusing on performance, continuous delivery, and usability.
+I’ve been promoted twice due to tangible results in technical leadership and a 70% reduction in bugs. I also have hands-on experience in UI/UX Design and prompt engineering with LLMs, applying principles of Clean Architecture, SOLID, and microservices.
+I’m looking for a new mid- to long-term opportunity where I can apply my technical skills, take on new challenges, and contribute to high-impact solutions. I value collaborative environments with growth potential and aim to evolve alongside the company, building a solid and meaningful path.
 
+### What I am studying
 - 🔭 Currently, I work at Facilita Jurídico, where I am responsible for maintaining a production system and developing solutions that incorporate AI for specific sectors within the company;
 - 💻 learning Prompt engeineering and Langchain for apply AI in code;
 
